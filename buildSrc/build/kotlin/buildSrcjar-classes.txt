@@ -1,0 +1,1 @@
+/Users/benidictdulce/Desktop/Personal/hilt-dagger-android/buildSrc/build/classes/kotlin/main/Dependencies$TestDependencies.class:/Users/benidictdulce/Desktop/Personal/hilt-dagger-android/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/benidictdulce/Desktop/Personal/hilt-dagger-android/buildSrc/build/classes/kotlin/main/Versions.class
